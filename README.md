@@ -1,4 +1,4 @@
-# Latihan Praktikum Algoritma Struktur Data - Array, Pointer, dan Fungsi
+# Latihan Praktikum Algoritma Struktur Data - Struct dan Stack
 
 - ***Sorting_Kartu.c*** = File Kode untuk mengurutkan nomor pada kartu poker (termasuk J, Q, dan K) secara ascending (Dari kecil ke Besar).
 
