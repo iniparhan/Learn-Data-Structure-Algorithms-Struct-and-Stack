@@ -46,7 +46,6 @@ int main() {
 
         int maxSum;   // Variabel maxSum -> maximal jumlah angka yang ditentukan
 
-        printf("Masukkan Angka\n");
         scanf("%d %d %d", &banyak_array_1, &banyak_array_2, &maxSum);
 
         int array_1[banyak_array_1]; // Variabel array_1 -> array pertama sebanyak banyak_array_1
