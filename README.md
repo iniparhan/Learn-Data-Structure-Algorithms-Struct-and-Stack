@@ -14,4 +14,7 @@ File Kode yang Berisi Penyelesaian kasus Stack, dalam hal ini mengambil kasus da
 
 ![Screenshot 2024-04-02 211141](https://github.com/iniparhan/Learn-Data-Structure-Algorithms-Struct-and-Stack/assets/105894704/f65e42ea-e616-4a84-973e-f8b1d852cb43)
 
+### ***Laporan Program.pdf***
+File Laporan dari kedua kode, yang berisi screenshot dan juga penjelasan kode berupa pdf.
+
 ### Ahmad Farhan QF | 1203230008 | IF-03-03
