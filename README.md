@@ -6,4 +6,9 @@
 
 - **Laporan Program.pdf** = File Laporan dari kedua kode, yang berisi screenshot dan juga penjelasan kode berupa pdf.
 
+
+![Screenshot 2024-04-02 171722](https://github.com/iniparhan/Learn-Data-Structure-Algorithms-Struct-and-Stack/assets/105894704/456cd3c7-6252-4838-9f12-000a56c115ef)
+![Screenshot 2024-04-02 171818](https://github.com/iniparhan/Learn-Data-Structure-Algorithms-Struct-and-Stack/assets/105894704/fc625141-a6f4-4acb-ab4d-178fa856c00b)
+
+
 ### Ahmad Farhan QF | 1203230008 | IF-03-03
